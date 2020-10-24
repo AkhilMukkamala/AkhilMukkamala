@@ -19,3 +19,7 @@ HTML, CSS, JavaScript.
 ##### Help Needed?
 
 I'm open for mentoring, you can ping me on LinkedIn.
+
+#### About Freelancing
+
+I'm open to take up projects.
